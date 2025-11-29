@@ -43,10 +43,10 @@ The dashboard includes:
 
 ## 📂 Files Included
 
-Superstore_Dashboard.xlsx   ``` # Interactive Excel dashboard ```
-Dashboard.pdf               ``` # Clean exported dashboard ```
-Insights.pdf                ``` # Written findings ```
-README.md                   ``` # Project documentation ```
+- Superstore_Dashboard.xlsx   ``` # Interactive Excel dashboard ```
+- Dashboard.pdf               ``` # Clean exported dashboard ```
+- Insights.pdf                ``` # Written findings ```
+- README.md                   ``` # Project documentation ```
 
 ---
 
