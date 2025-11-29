@@ -2,8 +2,7 @@
 
 An end-to-end Excel project analyzing** Superstore sales (2014–2017)**.Includes data cleaning, KPIs, pivot tables, slicers, a polished dashboard, and an insights report.
 
-🔗 Interactive Dashboard (Excel Web Link)
-(Insert your OneDrive link here)
+🔗 Interactive Dashboard ([Excel Web Link](https://1drv.ms/x/c/3eed8f80380b20a2/IQBYxejoOpmzRq_jUUuTwCzFAcxGAyCyOSNtAOOz4_gXitQ?e=iAixij))
 
 ## 🚀 What This Project Shows
 
