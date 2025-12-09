@@ -62,7 +62,7 @@ The dashboard includes:
 
 ## Sources
 
-- [Kaggle Superstore Dataset]([LICENSE.txt](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
+- ([Kaggle Superstore Dataset](LICENSE.txt](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
 
 ---
 
