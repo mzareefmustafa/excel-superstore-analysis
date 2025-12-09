@@ -58,10 +58,13 @@ The dashboard includes:
 - A small set of customers contributes disproportionately to total profit.
 (Full insights available in Insights.pdf)
 
+---
 
 ## Sources
 
 - [Kaggle Superstore Dataset]([LICENSE.txt](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
+
+---
 
 ## 📜 License
 
