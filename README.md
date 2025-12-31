@@ -65,8 +65,7 @@ This project was built to:
 
 ## Data Source
 
-Kaggle – Superstore Dataset  
-https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+- [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Author
 
