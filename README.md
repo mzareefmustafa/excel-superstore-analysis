@@ -1,6 +1,7 @@
 # Superstore Sales Performance Analysis (Excel)
 
 An end-to-end Excel analysis of **Superstore sales data (2014–2017)**.  
+
 This project focuses on cleaning sales data, defining performance KPIs, and building an interactive dashboard to analyze revenue, profitability, customer behavior, and operational performance.
 
 Interactive dashboard (Excel Web):  
