@@ -1,77 +1,76 @@
-# 📊 Superstore Sales Performance Analysis (Excel)
+# Superstore Sales Performance Analysis (Excel)
 
-An end-to-end Excel project analyzing** Superstore sales (2014–2017)**.Includes data cleaning, KPIs, pivot tables, slicers, a polished dashboard, and an insights report.
+An end-to-end Excel analysis of **Superstore sales data (2014–2017)**.  
+This project focuses on cleaning sales data, defining performance KPIs, and building an interactive dashboard to analyze revenue, profitability, customer behavior, and operational performance.
 
-🔗 Interactive Dashboard ([Excel Web Link](https://1drv.ms/x/c/3eed8f80380b20a2/IQBYxejoOpmzRq_jUUuTwCzFAcxGAyCyOSNtAOOz4_gXitQ?e=iAixij))
+Interactive dashboard (Excel Web):  
+https://1drv.ms/x/c/3eed8f80380b20a2/IQBYxejoOpmzRq_jUUuTwCzFAcxGAyCyOSNtAOOz4_gXitQ?e=iAixij
 
-## 🚀 What This Project Shows
+## Purpose
 
-- Advanced Excel analysis & dashboard design
-- Pivot tables, pivot charts, slicers
-- KPI creation (Sales, Profit, Profit Margin)
-- Trend, category, regional, customer, and operational analysis
-- Business insights & storytelling
+This project was built to:
+- Analyze sales and profitability trends using Excel
+- Identify high- and low-performing products, regions, and customers
+- Evaluate the impact of discounts and shipping on profit
+- Communicate insights through a clean, interactive dashboard
 
----
+## Key Questions Answered
 
-## 📈 Dashboard Highlights
+- Which product categories and sub-categories drive the most revenue?
+- How does performance vary by region and customer segment?
+- Which customers contribute most to total profit?
+- How do discounts impact profitability?
+- Which products consistently underperform?
 
-The dashboard includes:
-- Category & Sub-Category Performance
-- Regional Sales & Orders
-- Monthly Sales Trend
-- Segment Profitability
-- Customer Profitability (Pareto)
-- Shipping Speed & Volume
-- Discount Impact on Profit
-- Top 10 / Bottom 10 Products
-- Slicers: Region, Segment, Category, Ship Mode, Year
+## Dashboard Highlights
 
----
+- Category and sub-category performance
+- Regional sales and order volume
+- Monthly sales trends
+- Segment-level profitability
+- Customer profitability using Pareto (80/20) analysis
+- Shipping speed and order volume
+- Discount impact on profit margins
+- Top 10 and bottom 10 products
+- Interactive slicers: region, segment, category, ship mode, year
 
-## 🛠 Tools & Skills Used
-
-- Microsoft Excel (PivotTables, PivotCharts, Slicers)
-- Data Cleaning
-- KPI Measurement
-- Pareto Analysis (80/20)
-- Trend & Variance Analysis
-- Dashboard Design
-
----
-
-## 📂 Files Included
-
-- Superstore_Dashboard.xlsx   ``` # Interactive Excel dashboard ```
-- Dashboard.pdf               ``` # Clean exported dashboard ```
-- Insights.pdf                ``` # Written findings ```
-- README.md                   ``` # Project documentation ```
-
----
-
-## 🧠 Key Insights (Quick Summary)
+## Key Insights
 
 - Technology leads sales across all categories.
-- The West region drives the most revenue and orders.
-- Home Office has the highest profit per order.
-- High discount (50%+) sales generate large negative margins.
-- A small set of customers contributes disproportionately to total profit.
-(Full insights available in Insights.pdf)
+- The West region generates the highest revenue and order volume.
+- Home Office customers produce the highest profit per order.
+- Deep discounts (**50%+**) result in significant negative margins.
+- A small subset of customers accounts for a disproportionate share of total profit.
 
----
+(Full findings are documented in `Insights.pdf`.)
 
-## Sources
+## Tools & Skills Used
 
-- [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- Microsoft Excel
+- PivotTables and PivotCharts
+- Slicers and interactive filtering
+- KPI design and measurement
+- Data cleaning
+- Pareto (80/20) analysis
+- Trend and variance analysis
+- Dashboard design and storytelling
 
----
+## Files Included
 
-## 👤 Author
+- `Superstore_Dashboard.xlsx` – Interactive Excel dashboard  
+- `Dashboard.pdf` – Static dashboard export  
+- `Insights.pdf` – Written analysis and findings  
+- `README.md` – Project documentation  
 
-**Mohammed Zareef-Mustafa**
+## Data Source
 
----
+Kaggle – Superstore Dataset  
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-## 📜 License
+## Author
+
+Mohammed Zareef-Mustafa
+
+## License
 
 This project is licensed under the **MIT License**. See the [LICENSE.txt](LICENSE.txt) file for details.
