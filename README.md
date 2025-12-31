@@ -1,4 +1,4 @@
-# 📊 Superstore Performance Dashboard (Excel Analytics Project)
+# 📊 Superstore Sales Performance Analysis (Excel)
 
 An end-to-end Excel project analyzing** Superstore sales (2014–2017)**.Includes data cleaning, KPIs, pivot tables, slicers, a polished dashboard, and an insights report.
 
